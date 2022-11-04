@@ -1,26 +1,14 @@
 <pre><code>
-
-                                                            
- gp  gp                        ,,    ,,                     
- \/  \/ `7MMF'  `7MMF'       `7MM  `7MM                     
- `'  `'   MM      MM           MM    MM                     
-          MM      MM  .gP"Ya   MM    MM  ,pW"Wq.            
-          MMmmmmmmMM ,M'   Yb  MM    MM 6W'   `Wb           
-          MM      MM 8M""""""  MM    MM 8M     M8           
-          MM      MM YM.    ,  MM    MM YA.   ,A9 ,,        
-        .JMML.  .JMML.`Mbmmd'.JMML..JMML.`Ybmd9'  dg        
-                                                  ,j        
-                                    ,,        ,, ,'  gp  gp 
-`7MMF'     A     `7MF'            `7MM      `7MM  OO \/  \/ 
-  `MA     ,MA     ,V                MM        MM  88 `'  `' 
-   VM:   ,VVM:   ,V ,pW"Wq.`7Mb,od8 MM   ,M""bMM  ||        
-    MM.  M' MM.  M'6W'   `Wb MM' "' MM ,AP    MM  ||        
-    `MM A'  `MM A' 8M     M8 MM     MM 8MI    MM  `'        
-     :MM;    :MM;  YA.   ,A9 MM     MM `Mb    MM  ,,        
-      VF      VF    `Ybmd9'.JMML. .JMML.`Wbmd"MML.db        
-                                                            
-                                                            
-
+88 88 888    888          888 888                   888       888                  888      888 888 88 88 
+8P 8P 888    888          888 888                   888   o   888                  888      888 888 8P 8P 
+"  "  888    888          888 888                   888  d8b  888                  888      888 888 "  "  
+      8888888888  .d88b.  888 888  .d88b.           888 d888b 888  .d88b.  888d888 888  .d88888 888       
+      888    888 d8P  Y8b 888 888 d88""88b          888d88888b888 d88""88b 888P"   888 d88" 888 888       
+      888    888 88888888 888 888 888  888          88888P Y88888 888  888 888     888 888  888 Y8P       
+      888    888 Y8b.     888 888 Y88..88P d8b      8888P   Y8888 Y88..88P 888     888 Y88b 888  "        
+      888    888  "Y8888  888 888  "Y88P"  88P      888P     Y888  "Y88P"  888     888  "Y88888 888       
+                                           8P                                                             
+                                           "                                                                                                                                                              
 </code></pre>
 
 
